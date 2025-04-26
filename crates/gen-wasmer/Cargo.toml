@@ -21,8 +21,8 @@ wit-bindgen-wasmer = { path = '../wasmer', features = ['tracing'] }
 
 [dev-dependencies.wasmer]
 git = "https://github.com/wasmerio/wasmer.git"
-branch = "master"
+rev = "2ac8b77e23f778989d70124b09a87cfa5ccc3b0d"
 
 [dev-dependencies.wasmer-wasi]
 git = "https://github.com/wasmerio/wasmer.git"
-branch = "master"
+rev = "2ac8b77e23f778989d70124b09a87cfa5ccc3b0d"
